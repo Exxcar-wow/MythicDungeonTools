@@ -3,10 +3,6 @@ Mythic Dungeon Tools
 
 Mythic Dungeon Tools is a Mythic+ Dungeon Planner AddOn which helps you perfectly plan out your strategies and pull patterns in Mythic+ Dungeons. When done planning the route can be exported and shared via a paste string or send to party members ingame so other users of the AddOn can see what you have planned for the dungeon.
 
-Dungeon Data
-------------------
-Dungeon Data for all Shadowlands Dungeons is available to Twitch subscribers and Warforged Patrons.
-
 
 Features
 ------------------
